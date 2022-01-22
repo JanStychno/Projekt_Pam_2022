@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">z4</string>
+    <string name="Liczba1"></string>
+    <string name="Liczba2"></string>
+    <string name="Wynik">Wynik: </string>
+    <string name="WynikDziałanie">Wynik TUTAJ </string>
+    <string name="KalkulatorText">Kalkulator: </string>
+    <string name = "GuzikPlus" translatable="false">+</string>
+    <string name = "GuzikMinus" translatable="false">-</string>
+    <string name = "GuzikRazy" translatable="false">*</string>
+    <string name = "GuzikDzieli" translatable="false">/</string>
+    <string name="zmienDane">Zmien dane</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="rok_studi_w">Rok studiów</string>
+    <string name="informatyka">Informatyka</string>
+    <string name="kierunek">Kierunek</string>
+    <string name="stychno" translatable="false">Stychno</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="jan" translatable="false">Jan</string>
+    <string name="imie">Imie</string>
+    <string name="zapisz_zmiany">zapisz</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="dane">Dane Autora</string>
+    <string name="aplikacja_android_jan_stychno">Aplikacja Android Jan Stychno</string>
+    <string name="informacje_o_aplikacji">Informacje o Aplikacji</string>
+    <string name="wykonana_jako_projekt_zaliczeniowy_aplikacja_posiada_proste_funkcjonalno_ci_takie_jak_kalkulator_dane_autora_jak_i_zmiane_danych_autora">Wykonana jako projekt zaliczeniowy aplikacja posiada proste funkcjonalności takie jak: kalkulator, dane autora jak i zmiane danych autora</string>
+</resources>

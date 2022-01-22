@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">z4</string>
+    <string name="Liczba1">Number1</string>
+    <string name="Liczba2">Number2</string>
+    <string name="Wynik">Result:</string>
+    <string name="WynikDziałanie">Result HERE</string>
+    <string name="KalkulatorText">Calculator:</string>
+    <string name="zmienDane">Change values</string>
+    <string name="rok_studi_w">Year</string>
+    <string name="informatyka">IT</string>
+    <string name="kierunek">Field of study</string>
+    <string name="nazwisko">Surname</string>
+    <string name="imie">Name</string>
+    <string name="zapisz_zmiany">Save</string>
+    <string name="kalkulator">Calculator</string>
+    <string name="dane">Author info</string>
+    <string name="aplikacja_android_jan_stychno">Android App Jan Stychno</string>
+    <string name="informacje_o_aplikacji">About</string>
+    <string name="wykonana_jako_projekt_zaliczeniowy_aplikacja_posiada_proste_funkcjonalno_ci_takie_jak_kalkulator_dane_autora_jak_i_zmiane_danych_autora">done as an assesment project, app has a couple simple features such as: a calculator, author information and the ability to change author info</string>
+</resources>
